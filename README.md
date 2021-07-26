@@ -5,7 +5,8 @@
 ## Instalação e Uso
 
 ### Por comandos
-1º PASSO: Intalar git no
+1º PASSO: Intalar git 
+
 Faça o download no site https://git-scm.com/downloads e execute como adm e siga os passos de instalação até a conclusão.
 
 Façan
