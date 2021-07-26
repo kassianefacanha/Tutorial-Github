@@ -68,4 +68,10 @@ Mais comandos em:
 https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf
 ### Pelo VSCode
 
+
+https://code.visualstudio.com/docs/editor/github
+
 ### Pelo Github Desktop
+
+
+https://docs.github.com/en/desktop
