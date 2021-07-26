@@ -1,6 +1,7 @@
 # Tutorial-Github
 
-É necessário ter uma conta no Github para s
+É necessário ter uma conta no Github!
+
 ## Instalação e Uso
 
 ### Por comandos
@@ -39,12 +40,14 @@ Tudo pronto! Agora vamos criar nosso primeiro arquivo dentro dessa pasta. Abra s
 - git add arquivo.txt » Adiciona o arquivo arquivo.txt ao projeto
 
 Opções do parâmetro add
+```
 
 git-add # mesmo comando que 'git add'
 O comando git-add não irá adicionar arquivos ignorados por padrão a menos que seja utilizado o parâmetro '-f'
 git add -A # Adiciona todos arquivos que foram modificados, mesmo que: --all, --no-ignore-removal
 git add *.txt # Adiciona todos os arquivos '.txt' que foram modificados
 man git-add # manual completo sobre git-add
+```
 
 - git commit -m "Minhas mudanças efetuadas" » Armazena as mudanças efetuadas e descreve o que foi alterado
 - git log » Mostra todas as mudanças que já foram efetuadas: commit, autor e data
